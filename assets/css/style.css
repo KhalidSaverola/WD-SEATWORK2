@@ -1,4 +1,4 @@
-img {
+simg {
     border-radius: 50%;
   }
 
@@ -8,7 +8,5 @@ h3 {
     font-size: x-large;
 }
 
-body {
-    display: flex; 
-}
+
 
