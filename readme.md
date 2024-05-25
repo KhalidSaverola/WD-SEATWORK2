@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/feu.png" alt="FEU" width="350" height="600">
+    <img src="./assets/img/feu.png" alt="FEU" width="350" height="500">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">SAVEROLA</h3>
