@@ -6,14 +6,14 @@
 <div align="flex">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/faceko.png" alt="FEU" width="51" height="51">
+    <img src="./assets/img/faceko.jpg" alt="FEU" width="51" height="51">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">SAVEROLA</h3>
+  <h3 align="flex">HUMPHREY KHALID A. SAVEROLA</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  ABOUT ME (RESUME)
 </div>
 
 <br />
