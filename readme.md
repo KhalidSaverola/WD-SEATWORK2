@@ -18,7 +18,7 @@
     <img src="./assets/img/faceko.jpg" alt="FEU" width="200 height="200">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="flex">HUMPHREY KHALID A. SAVEROLA</h3>
+  <h3 align="flex start">HUMPHREY KHALID A. SAVEROLA</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
