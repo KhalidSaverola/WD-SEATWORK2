@@ -3,7 +3,7 @@
 <br/>
 
 <br />
-<div align="center">
+<div align="flex">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/feu.png" alt="FEU" width="350" height="500">
