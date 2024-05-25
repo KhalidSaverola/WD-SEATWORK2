@@ -1,0 +1,14 @@
+img {
+    border-radius: 50%;
+  }
+
+h3 {
+    color: green;
+    font-family: Tahoma;
+    font-size: x-large;
+}
+
+body {
+    display: flex; 
+}
+
