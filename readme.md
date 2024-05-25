@@ -4,24 +4,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./assets/css/style.css">
-    <link rel="stylesheet" href="<link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css">
     
-
+    
+---
 <a name="readme-top">
 
 <br/>
 
 <br />
+
 <div align="flex">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/faceko.jpg" alt="FEU" width="200 height="200">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="flex start">HUMPHREY KHALID A. SAVEROLA</h3>
+  <h3 align="flex">HUMPHREY KHALID A. SAVEROLA</h3>
 </div>
 <!-- TODO: Make a short description -->
-<div align="center">
+<div align="flex">
   ABOUT ME (RESUME)
 </div>
 
